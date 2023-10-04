@@ -12,9 +12,12 @@
 
   - inizializzare una variabile prezzoKm con il valore di 0.21
   - inizializzare una variabile prezzoBase con totaleKm \* prezzoKm
-    -dichiariamo una variabile prezzoFinale
+  - dichiariamo una variabile prezzoFinale
 
 - applicare eventuale sconto
+
+  - inizializziamo una variable con lo sconto under18
+  - inizializziamo una variable con lo sconto over65
 
   - SE il passeggero ha meno di 18 anni applichiamo uno sconto del 20%
   - assegnamo a prezzoFinale il valore del prezzo scotato
