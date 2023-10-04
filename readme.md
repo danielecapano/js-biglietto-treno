@@ -12,7 +12,7 @@
 
   - inizializzare una variabile prezzoKm con il valore di 0.21
   - inizializzare una variabile prezzoBase con totaleKm \* prezzoKm
-  - dichiariamo una variabile prezzoFinale
+  - inizializzare una variabile prezzoFinale uguale a prezzoBase
 
 - applicare eventuale sconto
 
